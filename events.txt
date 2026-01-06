@@ -1,6 +1,6 @@
--
--
--
--
--
--
+[low] fsdsd
+- //For Triggering events
+- //For Opening Links
+- //For Displaying Images
+- //For Live line
+- //Nothing, leave alone
