@@ -1,1 +1,3 @@
+[low] Welcome to Illumoid OS
 
+[low] fsd
